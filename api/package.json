@@ -1,0 +1,16 @@
+{
+  "name": "bharosa-api",
+  "version": "1.0.0",
+  "description": "Bharosa's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopal Shah, Kabir Shah",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
+}
